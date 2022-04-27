@@ -4,7 +4,7 @@ Hi 👋 My name is Michel Abi Akl
 Front End Developer
 -------------------
 
-I've been learning to code for 6 years, after switching careers. I started with HTML, but have really found a passion for front end development...
+I've been learning to code for 6 years. I started with HTML, but have really found a passion for front end development...
 
 *   🌍  I'm based in Lebanon
 *   ✉️  You can contact me at [abiaklmichel98@gmail.com](mailto:abiaklmichel98@gmail.com)
